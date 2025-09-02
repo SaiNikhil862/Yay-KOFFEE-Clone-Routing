@@ -4,7 +4,7 @@ A modern, responsive coffee shop website clone built with **React** and **React 
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Project](https://yay-koffee-clone-routing.vercel.app)** *(Deploy to get actual link)*
+🔗 **[View Live Project](https://sainikhil862.github.io/Yay-KOFFEE-Clone-Routing/)** ✅ **WORKING LINK**
 
 ## 📸 Screenshots
 
