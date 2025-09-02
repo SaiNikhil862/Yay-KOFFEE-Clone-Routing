@@ -6,11 +6,6 @@ A modern, responsive coffee shop website clone built with **React** and **React 
 
 🔗 **[View Live Project](https://routingclone-7nuz20xq4-sai-nikhils-projects-adb845a3.vercel.app/)
 
-## 📸 Screenshots
-
-![Home Page](https://via.placeholder.com/800x400/F9B94B/3E2723?text=Home+Page)
-![Menu Page](https://via.placeholder.com/800x400/3C200B/F9B94B?text=Menu+Page)
-
 ## 🚀 Features
 
 - **🏠 Home Page**: Interactive hero section with dynamic content
@@ -35,52 +30,6 @@ A modern, responsive coffee shop website clone built with **React** and **React 
 - **Styling**: Tailwind CSS
 - **Build Tool**: Vite
 - **Package Manager**: npm
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SaiNikhil862/Yay-KOFFEE-Clone-Routing.git
-   cd Yay-KOFFEE-Clone-Routing
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
-
-## 📁 Project Structure
-
-```
-routingclone/
-├── src/
-│   ├── components/
-│   │   ├── Mainpage.jsx      # Main layout with navigation
-│   │   ├── Home.jsx          # Home page component
-│   │   ├── Menu.jsx          # Menu page with food items
-│   │   ├── Locations.jsx     # Store locations
-│   │   ├── Blog.jsx          # Blog posts
-│   │   └── AboutUs.jsx       # About page
-│   ├── assets/
-│   │   ├── images/           # All project images
-│   │   └── fonts/            # Custom fonts
-│   ├── App.jsx               # Main app component
-│   ├── main.jsx              # Entry point
-│   └── index.css             # Global styles
-├── public/
-├── package.json
-└── README.md
-```
 
 ## 🎨 Key Components
 
