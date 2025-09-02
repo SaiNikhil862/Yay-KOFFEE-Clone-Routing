@@ -1,15 +1,6 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
 
-@font-face {
-  font-family: 'UltraRegular';
-  src: url('./assets/fonts/UltraRegular.woff2') format('woff2'),
-       url('./assets/fonts/UltraRegular.woff') format('woff'),
-       url('./assets/fonts/UltraRegular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
-  font-family: 'UltraRegular', 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }

@@ -85,7 +85,7 @@ const location = useLocation();
             {brr.map((item,index) => (
                 <div key={index} className='ml-[400px] mt-[-70px] h-[320px] w-[220px] py-15 text-center items-center'>
 
-                    <div className='h-[100px] w-[150px]' alt="ckeckimg" >{item.img}</div>
+                    <div className='h-[100px] ml-[5vh] w-[150px]' alt="ckeckimg" >{item.img}</div>
                     <div className='h-[57px] ml-[40px] mt-[55px] w-[142px]'>{item.title}</div>
                     <p className='h-[30px] text-md text-[#BFCB75] ml-[40px] font-["UltraRegular"] font-bold w-[142px] mt-[-55px]'>{item.item}</p>
                     <p className='h-[20px] text-[13px] ml-[40px] w-[142px]'>{item.price}</p>
